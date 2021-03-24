@@ -10,14 +10,27 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      8668,        256]
-NotebookOptionsPosition[      8043,        239]
-NotebookOutlinePosition[      8422,        255]
-CellTagsIndexPosition[      8379,        252]
+NotebookDataLength[      9311,        274]
+NotebookOptionsPosition[      8470,        253]
+NotebookOutlinePosition[      8849,        269]
+CellTagsIndexPosition[      8806,        266]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+
+Cell[CellGroupData[{
+Cell["gpd_notation.nb", "Title",
+ CellChangeTimes->{{3.8255659178575897`*^9, 
+  3.825565943229403*^9}},ExpressionUUID->"d2e9fa26-6094-4c5a-809f-\
+a780e06e4807"],
+
+Cell["\:4fdd\:7559\:4e00\:4e9b\:8bb0\:53f7\:ff0c\:4ee5\:53ca\:52a8\:91cf\:53c2\
+\:6570\:5316", "Text",
+ CellChangeTimes->{{3.82556592303995*^9, 
+  3.825565931005226*^9}},ExpressionUUID->"ceade610-e8ce-46f4-8dd7-\
+a6cfbf443b04"],
+
 Cell[BoxData[
  RowBox[{
   RowBox[{"(*", 
@@ -236,9 +249,10 @@ Cell[BoxData[{
    3.818941086237997*^9}, {3.8193686454391623`*^9, 3.819368645937541*^9}, 
    3.819369562509677*^9, {3.8246157429154243`*^9, 3.8246157431686172`*^9}},
  CellLabel->"In[40]:=",ExpressionUUID->"511c2a74-322f-4e76-a4de-9adf2b6af870"]
+}, Open  ]]
 },
 WindowSize->{1920, 1020},
-WindowMargins->{{Automatic, 132}, {140, Automatic}},
+WindowMargins->{{Automatic, 132}, {110, Automatic}},
 Magnification:>1.5 Inherited,
 FrontEndVersion->"12.0 for Linux x86 (64-bit) (2019\:5e744\:67088\:65e5)",
 StyleDefinitions->"Default.nb"
@@ -254,10 +268,14 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 2182, 69, 368, "Code",ExpressionUUID->"03b336e1-ee1b-46aa-8b81-5fbdc74ff702"],
-Cell[2743, 91, 2101, 50, 213, "Code",ExpressionUUID->"942ddada-c880-4f95-9df5-4bf89bae4a15"],
-Cell[4847, 143, 2171, 66, 293, "DisplayFormula",ExpressionUUID->"74dfcd83-ef35-4895-9cf5-2823d7252c37"],
-Cell[7021, 211, 1018, 26, 180, "Code",ExpressionUUID->"511c2a74-322f-4e76-a4de-9adf2b6af870"]
+Cell[CellGroupData[{
+Cell[580, 22, 160, 3, 147, "Title",ExpressionUUID->"d2e9fa26-6094-4c5a-809f-a780e06e4807"],
+Cell[743, 27, 227, 4, 54, "Text",ExpressionUUID->"ceade610-e8ce-46f4-8dd7-a6cfbf443b04"],
+Cell[973, 33, 2182, 69, 368, "Code",ExpressionUUID->"03b336e1-ee1b-46aa-8b81-5fbdc74ff702"],
+Cell[3158, 104, 2101, 50, 213, "Code",ExpressionUUID->"942ddada-c880-4f95-9df5-4bf89bae4a15"],
+Cell[5262, 156, 2171, 66, 293, "DisplayFormula",ExpressionUUID->"74dfcd83-ef35-4895-9cf5-2823d7252c37"],
+Cell[7436, 224, 1018, 26, 180, "Code",ExpressionUUID->"511c2a74-322f-4e76-a4de-9adf2b6af870"]
+}, Open  ]]
 }
 ]
 *)
