@@ -8102,7 +8102,7 @@ Cell[BoxData[
 },
 WindowToolbars->"EditBar",
 WindowSize->{1920, 1020},
-WindowMargins->{{Automatic, 49}, {Automatic, 154}},
+WindowMargins->{{Automatic, 49}, {Automatic, 184}},
 Magnification:>1.5 Inherited,
 FrontEndVersion->"12.0 for Linux x86 (64-bit) (2019\:5e744\:67088\:65e5)",
 StyleDefinitions->"Default.nb"
